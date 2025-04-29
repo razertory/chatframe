@@ -1,5 +1,8 @@
 **Explore Chatframe: The Ultimate Chat AI Agent Platform with Full MCP Support**
 
+
+![chatframe](https://static.chatframe.co/WechatIMG677.jpg)
+
 Hey everyone! Today, I’m excited to introduce you to an amazing platform—Chatframe! If you’re looking for a powerful chat AI tool to enhance your communication experience or boost business efficiency while seamlessly connecting to your data systems, then Chatframe is definitely the right choice for you.
 
 🌟 **What is Chatframe?**  
